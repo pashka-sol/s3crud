@@ -1,6 +1,6 @@
 
 # CRUD Amazon S3
-
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/s3crud?logo=npm)
 CRUD operations using Amazon SDK. 
 
 

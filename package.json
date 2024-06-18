@@ -1,6 +1,6 @@
 {
   "name": "s3crud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy operations with S3 object storage based on amazon s3 client",
   "main": "dist/S3.js",
   "types": "dist/S3.d.ts",
