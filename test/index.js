@@ -1,4 +1,4 @@
-const S3 = require('s3crud');
+const S3 = require('s3crud').default;
 
 const client = new S3({
     keyId: 'f920f2258404447297caf37383814e80',

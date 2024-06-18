@@ -9,5 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {}
+  "dependencies": {
+    "s3crud": "^1.0.3"
+  }
 }
